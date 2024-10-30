@@ -1,6 +1,9 @@
 # simple-chatbot-
 simple chatbot using NLP techniques
-Project Title: Personal Assistant Chatbot
+
+Project Title: Customer support Chatbot
+
 Author
 Pruthu Patel
 Program: B.Tech in Computer Science Engineering (Specialization: Cyber Security)
+
