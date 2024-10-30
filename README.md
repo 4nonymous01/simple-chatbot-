@@ -13,7 +13,12 @@ The frontend, built in HTML with JavaScript, provides a user interface where use
 
 ![image](https://github.com/user-attachments/assets/2781e8b0-69d5-41cc-88a1-681e0d4d15c3)
 
-Features
+
+
+
+
+
+FEATURES
 
 Keyword-Based Intent Recognition: Identifies user intent based on keywords related to greetings, order status, product information, troubleshooting, and more.
 
@@ -26,7 +31,11 @@ Interactive User Interface: Simple and user-friendly chat interface with real-ti
 Fallback Response: Offers a default message when the user input doesn’t match any recognized intent, guiding the user to possible questions.
 
 
-Technologies Used
+
+
+
+
+TECHNOLOGIES USED
 
 Python: Used as the core programming language for developing both the backend and chatbot logic.
 
